@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
-import "../assets/js/artyom.window.min.js";
+import "../assets/vendor/js/artyom.window.min.js";
 import { TextAttribute } from '@angular/compiler/src/render3/r3_ast';
 declare const Artyom: any;
 //https://sdkcarlos.github.io/sites/artyom.html
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  templateUrl: './odontogram.component.html',
+  styleUrls: ['./odontogram.component.scss']
 })
 export class AppComponent {
   title = 'my-app';
