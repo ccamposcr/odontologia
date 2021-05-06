@@ -1,0 +1,18 @@
+.welcome{
+    margin-bottom: 30px;
+    &__name{
+        display: inline-block;
+        margin: 0 10px 0 0;
+    }
+    &__logo{
+        img{
+            width: 100px;
+        }
+    }
+    &__body{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        height: 100%;
+    }
+}

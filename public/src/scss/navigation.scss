@@ -1,0 +1,12 @@
+.navigation{
+    margin-bottom: 30px;
+    .nav{
+        &__item{
+            margin-right: 10px;
+            margin-bottom: 10px;
+            &:last-child{
+                margin-right: none;
+            }
+        }
+    }
+}
