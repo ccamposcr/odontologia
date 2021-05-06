@@ -23,5 +23,5 @@ export default new Router({
         }
     ],
     mode: "history",
-    base: '/clinicadentaldralauracampos'
+    base: '/odontologia'
 })

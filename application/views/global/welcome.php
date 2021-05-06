@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-md-2">
             <a href="<?php echo base_url(); ?>inicio" class="welcome__logo">
-                <img width="100px" src="<?php echo base_url(); ?>public/images/logo.jpg"/>
+                <img width="100px" src="<?php echo base_url(); ?>public/images/logo.png"/>
             </a>
         </div>
         <div class="col-md-10">

@@ -3,7 +3,7 @@
    <div class="row justify-content-center">
       <div class="col-md-12 login__logo-wrap">
          <a href="<?php echo base_url(); ?>inicio" class="login__logo">
-            <img width="100px" src="<?php echo base_url(); ?>public/images/logo.jpg"/>
+            <img width="100px" src="<?php echo base_url(); ?>public/images/logo.png"/>
          </a>
       </div>
       <div class="col-md-6">
